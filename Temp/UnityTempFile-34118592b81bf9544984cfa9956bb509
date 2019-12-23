@@ -412,3 +412,5 @@ Assets\GoogleVR\Scripts\Utilities\GvrVRHelpers.cs
 Assets\GoogleVR\Scripts\Utilities\Internal\GvrCursorHelper.cs
 Assets\GoogleVR\Scripts\Utilities\Internal\SuppressMemoryAllocationErrorAttribute.cs
 Assets\GoogleVR\Scripts\Video\GvrVideoPlayerTexture.cs
+Assets\Scripts\Movement.cs
+Assets\Scripts\TestMove.cs

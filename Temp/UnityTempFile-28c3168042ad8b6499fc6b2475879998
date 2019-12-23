@@ -6,15 +6,6 @@
 /nostdlib+
 /preferreduilang:en-US
 /langversion:latest
-/reference:Library/ScriptAssemblies/Unity.Timeline.Editor.dll
-/reference:Library/ScriptAssemblies/Unity.VSCode.Editor.dll
-/reference:Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll
-/reference:Library/ScriptAssemblies/UnityEngine.UI.dll
-/reference:Library/ScriptAssemblies/Unity.Timeline.dll
-/reference:Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll
-/reference:Library/ScriptAssemblies/Unity.Rider.Editor.dll
-/reference:Library/ScriptAssemblies/Unity.TextMeshPro.dll
-/reference:Library/ScriptAssemblies/UnityEditor.UI.dll
 /reference:D:/Unity_Hub/2019.2.17f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll
 /reference:D:/Unity_Hub/2019.2.17f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll
 /reference:D:/Unity_Hub/2019.2.17f1/Editor/Data/Managed/UnityEngine/UnityEngine.ARModule.dll
@@ -76,6 +67,15 @@
 /reference:D:/Unity_Hub/2019.2.17f1/Editor/Data/Managed/UnityEngine/UnityEngine.WindModule.dll
 /reference:D:/Unity_Hub/2019.2.17f1/Editor/Data/Managed/UnityEngine/UnityEngine.XRModule.dll
 /reference:D:/Unity_Hub/2019.2.17f1/Editor/Data/Managed/UnityEditor.dll
+/reference:Library/ScriptAssemblies/Unity.Timeline.Editor.dll
+/reference:Library/ScriptAssemblies/Unity.VSCode.Editor.dll
+/reference:Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll
+/reference:Library/ScriptAssemblies/UnityEngine.UI.dll
+/reference:Library/ScriptAssemblies/Unity.Timeline.dll
+/reference:Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll
+/reference:Library/ScriptAssemblies/Unity.Rider.Editor.dll
+/reference:Library/ScriptAssemblies/Unity.TextMeshPro.dll
+/reference:Library/ScriptAssemblies/UnityEditor.UI.dll
 /reference:Assets/GoogleVR/Plugins/Google.ProtocolBuffers.dll
 /reference:D:/Unity_Hub/2019.2.17f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/mscorlib.dll
 /reference:D:/Unity_Hub/2019.2.17f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/System.dll
@@ -412,3 +412,4 @@ Assets\GoogleVR\Scripts\Utilities\GvrVRHelpers.cs
 Assets\GoogleVR\Scripts\Utilities\Internal\GvrCursorHelper.cs
 Assets\GoogleVR\Scripts\Utilities\Internal\SuppressMemoryAllocationErrorAttribute.cs
 Assets\GoogleVR\Scripts\Video\GvrVideoPlayerTexture.cs
+Assets\Scripts\Movement.cs

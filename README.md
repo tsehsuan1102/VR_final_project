@@ -13,4 +13,8 @@
 
 ## TODO:
 - Monster
+- Ox-head men with an axe
+  - asking question at the corner
+  - if correct then pass, otherwise , battle
+  
 

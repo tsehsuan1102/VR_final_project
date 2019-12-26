@@ -7,7 +7,7 @@ public class Movement : MonoBehaviour
 	public float speed = 1.5f;
 	private float rotatespeed = 50.0f;
 
-	public float m_Speed = 12f;                 // How fast the tank moves forward and back.
+	public float m_Speed = 3f;                 // How fast the tank moves forward and back.
 	public float m_TurnSpeed = 180f;            // How fast the tank turns in degrees per second.
 
 	private string m_MovementAxisName;          // The name of the input axis for moving forward and back.

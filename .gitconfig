@@ -1,0 +1,14 @@
+[user]
+	email = sam9883043@gmail.com
+	name = tsehsuan1102
+
+[alias]
+    co = checkout
+    br = branch
+    ci = commit
+    cm = commit -m
+    st = status
+    tree = log --graph --oneline
+    lg = log --graph --abbrev-commit --format=format:'%C(yellow)%h%C(reset) - %C(green)(%ar)%C(reset) %C(white)%s%C(reset) %C(dim white)- %an%C(reset)%C(auto)%d%C(reset)' --all
+    lg2 = log --graph --abbrev-commit --format=format:'%C(auto)%h%C(reset) - %C(cyan)%aD%C(reset) %C(green)(%ar)%C(reset)%C(bold yellow)%d%C(reset)%n''          %C(white)%s%C(reset) %C(dim white)- %an%C(reset)' --all
+
